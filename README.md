@@ -1,8 +1,18 @@
 # Notas
 
-Proyecto para realizar notas, el cual permite hacer las operaciones de un CRUD, crea notas, las modifica, ve las notas creadas y permite eliminar las notas que no necesites
+Notas Unison es una aplicación móvil de productividad desarrollada en Flutter que permite a los usuarios gestionar sus tareas y recordatorios de manera local y eficiente.
+
+Funcionalidades
+
+- Operaciones con CRUD:
+  - Crear notas
+  - Eliminar notas
+  - Ver notas
+  - Modificar Notas
+- Almacenamiento local con SQLite
 
 Tecnologias utilizadas
+
 - Fluttter (version: 3.41.1)
 - Dart (version: 3.11.0)
 - DevTool (version: 2.54.1)
